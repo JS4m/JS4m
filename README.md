@@ -6,5 +6,5 @@
 </br>
 
 ## My Portfolio and Work 👀 -
-### 0.[Portfolio](https://js4m.github.io/portfolio/) ✨
+### [Portfolio](https://js4m.github.io/portfolio/) ✨
 </br>
