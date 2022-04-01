@@ -4,7 +4,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://js4m.github.io/portfolio/">### :man_technologist: S. Vilcherrez 👋</a>.<br> I'm a Dev Full-stack y Analyst, full time nomad.<br><br>#Flutter, #Firebase, #SQL Server,  #MySQL </samp>
+  <samp>Hello there. I'm <a href="https://js4m.github.io/portfolio/">### :man_technologist: S. Vilcherrez 👋</a>.<br> I'm a Systems Engineer , full time nomad.<br><br>#Flutter, #Firebase, #SQL Server, #VisualBasic , #MySQL , #PHP , #Boostrap , #Linux , # ParrotOS , #Pentesting ,#KaliLinux </samp>
   <br>
   <br>
   <br>
